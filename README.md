@@ -2,7 +2,9 @@
 
 A sleek, lightweight, and customizable "Now Playing" overlay for Windows 10/11. It displays the current song's title, artist, and album art with a smooth animated waveform and fade effects.
 
-![Preview](preview.gif)
+**Preview:**
+
+![Preview](https://github.com/DrowBlack/Media-Overlay/blob/main/Preview.gif?raw=true)
 
 ## ✨ Features
 
