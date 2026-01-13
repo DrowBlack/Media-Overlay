@@ -1,18 +1,8 @@
-Harika, projeni GitHub'da yayınlaman için gereken profesyonel dosyaları hazırladım.
-
-### 1. `README.md` Dosyası
-
-Bu dosya, projenin "vitrini"dir. İnsanlar projene girdiğinde uygulamanın ne işe yaradığını, nasıl kurulacağını ve özelliklerini buradan okurlar. Standart olarak İngilizce hazırladım (GitHub'da genelde İngilizce kullanılır), istersen Türkçeye çevirebilirsin.
-
-Bir dosya oluştur, adını **`README.md`** koy ve içine şunları yapıştır:
-
-```markdown
 # 🎵 Modern Windows Media Overlay
 
 A sleek, lightweight, and customizable "Now Playing" overlay for Windows 10/11. It displays the current song's title, artist, and album art with a smooth animated waveform and fade effects.
 
-![Preview](preview.png)
-*(Note: Don't forget to add a screenshot of your app here and name it preview.png)*
+![Preview](preview.gif)
 
 ## ✨ Features
 
@@ -35,20 +25,23 @@ A sleek, lightweight, and customizable "Now Playing" overlay for Windows 10/11. 
    git clone [https://github.com/your-username/media-overlay.git](https://github.com/your-username/media-overlay.git)
    cd media-overlay
 
-```
 
 2. **Install dependencies:**
-```bash
-start setup.bat
-
-```
+   ```bash
+   start setup.bat
+   ```
 
 ## 🎮 Usage
 
-Simply run the main script:
+Simply open the start.bat file:
 
 ```bash
 start start.bat
+```
+
+If you want close the app you can open stop.bat:
+```bash
+start stop.bat
 
 ```
 
@@ -69,6 +62,4 @@ FADE_SPEED = 0.08       # Fade animation speed
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
