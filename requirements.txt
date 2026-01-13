@@ -1,0 +1,5 @@
+winsdk
+pillow
+customtkinter
+asyncio
+numpy
